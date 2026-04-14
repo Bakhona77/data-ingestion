@@ -17,8 +17,9 @@ data/raw/
 logs/
 
 # Confs
+config/.env
 .env
 .env.*
-config/*.env
+
 # OS
 .DS_Store
