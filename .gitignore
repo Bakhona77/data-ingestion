@@ -16,5 +16,8 @@ data/raw/
 # Airflow
 logs/
 
+# Confs
+config/
+config/.env
 # OS
 .DS_Store
